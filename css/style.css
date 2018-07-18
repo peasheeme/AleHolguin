@@ -1,0 +1,67 @@
+body {
+	background-color: #272d5f;
+}
+
+.logoP {
+	padding: 10px 0;
+}
+.navegacion {
+	padding:  3px 10px 0 0 ;
+
+}
+.nav-item , .nav-link {
+	color:white;
+	
+}
+
+.nav-link {
+	padding: 15px 25px;
+}
+.nav-link:hover  {
+	background: linear-gradient(to top, #E92C5F, #F75F3A  );
+	text-decoration: none;
+	color: white
+}
+.background {
+	background-image: url("../images/background.jpg");
+	background-size: cover;
+	padding: 200px 0;
+	margin: 0;
+}
+.portada {
+	text-align: right;
+	padding: 50px 0 100px 0;
+	color: white;
+	background: -webkit-gradient(linear, left top, right top, from(rgba(233,44,95,0.5)), to(rgba(247,95,58,.25)));
+	
+}
+.logoG {
+	padding-right:  60px;
+}
+.subtituloP {
+	padding-right: 40px;
+}
+.subtituloH {
+	padding-right: 80px;
+	
+}
+
+/* ---------------ABOUT-------------*/
+.section1 {
+	padding: 85px 0 85px 0;
+	color: white;
+	text-align: center;
+}
+.borde {
+	margin-bottom:  25px;
+}
+.rosa {
+	color: #E92C5F;
+}
+h3.rosa {
+	margin-top: 80px;
+}
+
+
+	
+
